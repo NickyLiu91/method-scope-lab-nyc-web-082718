@@ -1,4 +1,4 @@
 def catch_phrase
-  status = "good"
+  phrase = "hello"
   puts phrase
 end
